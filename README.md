@@ -1,8 +1,10 @@
 ## Hey, I'm Gustavo Henrique 👋
-<ul>
-  <li>Living in Goiás / Brazil <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png"></li>
-  <li>|> I'm 24 years old </li>
-</ul>
+
+  Living in Goiás / Brazil <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png"><br /><br />
+  |> I'm 24 years old <br />
+  |> Frontend Developer <br />
+  |> Enthusiast Elixir
+
 
 <br />
 
@@ -18,6 +20,12 @@
 
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guskcoder&layout=compact&show_icons=true&theme=radical)](https://github.com/guskcoder/github-readme-stats)
+
+
+<br />
+
+## Github Stats
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guskcoder&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisSempre&layout=compact&show_icons=true&theme=radical)](https://github.com/LuisSempre/github-readme-stats)
