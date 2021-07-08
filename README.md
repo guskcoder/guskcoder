@@ -3,7 +3,7 @@
   Living in Goiás / Brazil <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png"><br /><br />
   |> I'm 24 years old <br />
   |> Frontend Developer <br />
-  |> Enthusiast Ruby
+  |> Enthusiast Ruby<br />
   |> Enthusiast Elixir
 
 
