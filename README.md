@@ -13,6 +13,7 @@
 <img alt="ruby" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/260px-Ruby_logo.svg.png"> &nbsp;
 <img alt="elixir" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg">&nbsp;
 <img alt="javascript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
+<img alt="dart" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"> &nbsp;
 
 
 <br />
