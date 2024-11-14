@@ -11,8 +11,9 @@
 ## Languages and tools
 
 <img alt="javascript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
-<img alt="elixir" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg"> &nbsp;
 <img alt="ruby" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"> &nbsp;
+<img alt="elixir" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg"> &nbsp;
+
 
 
 <br />
