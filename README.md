@@ -2,9 +2,7 @@
 
   Living in Brazil <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png"><br /><br />
   |> I'm 28 years old <br>
-  |> Backend Developer <br>
-  |> Enthusiast Fullstack <br>
-
+  |> Developer <br>
 
 <br />
 
