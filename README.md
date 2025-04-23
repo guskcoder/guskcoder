@@ -11,6 +11,7 @@
 ## Languages and tools
 
 <img alt="javascript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
+<img alt="go" height="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/go/go-original.svg"> &nbsp;
 
 <br />
 
