@@ -18,7 +18,3 @@
 
 <br />
 
-## Github Stats
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guskcoder&show_icons=true&theme=radical)
-
