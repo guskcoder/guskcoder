@@ -10,10 +10,13 @@
 
 <img alt="javascript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
 
+<img alt="elixir" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/elixir-original.svg"> &nbsp;
+
 
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guskcoder&layout=compact&show_icons=true&theme=radical)](https://github.com/guskcoder/github-readme-stats)
+
 
 
 <br />
