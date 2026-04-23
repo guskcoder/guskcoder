@@ -5,13 +5,13 @@
 **`Developer`** · **`Brazil 🇧🇷`** · **`29 anos`**
 
 Desenvolvedor apaixonado por código limpo e soluções elegantes.<br/>
-Focado em **JavaScript** e **Elixir** — construindo coisas que funcionam e fazem sentido.
+Focado em **JavaScript** e **Go** — construindo coisas que funcionam e fazem sentido.
 
 ---
 
 ### 🛠️ Stack
 
-<img src="https://skillicons.dev/icons?i=js,elixir&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=js,go&theme=dark" alt="Tech Stack" />
 
 ---
 
@@ -23,7 +23,7 @@ Focado em **JavaScript** e **Elixir** — construindo coisas que funcionam e faz
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: white)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guskcoder&theme=github_dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guskcoder&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guskcoder&theme=default" alt="Top Languages" />
 </picture>
 
