@@ -5,13 +5,13 @@
 **`Developer`** · **`Brazil 🇧🇷`** · **`29 anos`**
 
 Desenvolvedor apaixonado por código limpo e soluções elegantes.<br/>
-Focado em **JavaScript** e **Go** — construindo coisas que funcionam e fazem sentido.
+Focado em **JavaScript**, **Elixir** e **Rust** — construindo coisas que funcionam e fazem sentido.
 
 ---
 
 ### 🛠️ Stack
 
-<img src="https://skillicons.dev/icons?i=js,go&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=js,elixir,rust&theme=dark" alt="Tech Stack" />
 
 ---
 
